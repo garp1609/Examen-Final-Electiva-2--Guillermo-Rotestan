@@ -1,0 +1,16 @@
+{
+  "name": "examen-final-electiva-2--guillermo-rotestan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "puppeteer": "^23.9.0"
+  }
+}

@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Docker build artifacts
+*.tar
+*.img
+*.container
+
+# Output of jest tests
+coverage/
+
+# OS or Editor files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Build directory
+dist/
